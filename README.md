@@ -1,7 +1,7 @@
 # Image_Acqusition-_using_Web_Camera
 
 # Name: ALDRIN.S
-# REG NO:212223240005
+# Reg no:212223240005
 
 ## Aim:
  
@@ -30,10 +30,9 @@ Use cv2.imshow to show the video.
 End the program and close the output video window by pressing 'q'.
 
 ## Program:
-
-# Developed by: ALDRIN.S
-# REG NO:212223240005
 ```
+ Developed by: ALDRIN.S
+ Reg no:212223240005
 Python
 
 ## i) Write the frame as JPG file
